@@ -16,6 +16,8 @@ const GalleryPage = () => {
             "/images/bohobox2.jpg",
             "/images/bohobox3.jpg",
             "/images/bohobox5.jpg",
+      "/images/bohoboxpp.jpg",
+      "/images/boxpp5.jpg",
             "/images/box4.jpg",
             "/images/boxb1.jpg",
             "/images/boxb3.jpg",
@@ -81,3 +83,4 @@ const GalleryPage = () => {
 };
 
 export default GalleryPage;
+
