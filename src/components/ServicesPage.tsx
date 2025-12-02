@@ -17,8 +17,8 @@ const ServicesPage = () => {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
           {[
             { title: "Cornrows", desc: "Tension-free, natural looking braids that protect your edges.", img: "/images/conrows.jpg" },
-            { title: "Boho Box Braids", desc: "The trendy bohemian look with curly ends for a soft finish.", img: "/images/bohobox1.jpg" },
-            { title: "Traditional Box Braids", desc: "Classic, versatile, and long-lasting protective style.", img: "/images/boxb1.jpg" },
+            { title: "Boho Box Braids", desc: "The trendy bohemian look with curly ends for a soft finish.", img: "/images/bohoboxpp.jpg" },
+            { title: "Traditional Box Braids", desc: "Classic, versatile, and long-lasting protective style.", img: "/images/boxpp.jpg" },
             { title: "Mohawk Braids", desc: "Edgy, bold style with shaved sides and braided center strip.", img: "/images/borabora.jpg" },
             { title: "Bora Braids", desc: "Unique braided patterns for a distinctive look.", img: "/images/fppic.jpg"},
             { title: "Bob Box Braids ", desc: "Classic braids patterns for vintage look.", img: "/images/bobbox.jpg" },
@@ -59,3 +59,4 @@ const ServicesPage = () => {
 };
 
 export default ServicesPage;
+
