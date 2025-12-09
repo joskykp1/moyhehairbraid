@@ -41,7 +41,18 @@ const ContactPage = () => {
               <h4 className="text-xl font-serif font-bold mb-6">Contact Us</h4>
               <ul className="space-y-4 text-gray-400">
                 <li className="flex items-center gap-3"><Phone size={18} className="text-primary" /> (704) 641-7227</li>
-                <li className="flex items-center gap-3"><MapPin size={18} className="text-primary" /> Charlotte & Concord, NC</li>
+                <li className="flex items-center gap-3">
+                  <MapPin size={18} className="text-primary" />
+                  <a href="https://www.google.com/maps/dir/?api=1&destination=Central%20AVE%2C%20Charlotte%2C%20NC%2028205" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
+                    Charlotte: Central AVE, Charlotte, NC 28205
+                  </a>
+                </li>
+                <li className="flex items-center gap-3">
+                  <MapPin size={18} className="text-primary" />
+                  <a href="https://www.google.com/maps/dir/?api=1&destination=Church%20Street%2C%20Concord%2C%20NC%2028025" target="_blank" rel="noopener noreferrer" className="text-gray-400 hover:text-primary transition-colors">
+                    Concord: Church Street, Concord, NC 28025
+                  </a>
+                </li>
                 <li className="flex items-center gap-3"><Calendar size={18} className="text-primary" /> Mon-Sat: 9am - 7pm</li>
               </ul>
             </div>
