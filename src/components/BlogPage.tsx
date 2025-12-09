@@ -57,7 +57,7 @@ const BlogPage = () => {
               <h2>Why Choose Box Braids in 2025?</h2>
               <p>Box braids aren't just a style; they're a celebration of Afro heritage and resilience. In Charlotte's multicultural melting pot, they're a way to honor your roots while staying on-trend. Plus, with rising awareness around hair health, these protective styles help combat damage from heat and chemicals.</p>
               <p>At Moyhe African Hair Braiding, we're passionate about creating looks that empower you. Our skilled stylists use premium extensions tailored to 3C-4C hair textures, ensuring comfort and longevity.</p>
-              <p>Ready to transform your hair? Visit us at our Charlotte location (123 Main St, Charlotte, NC) or Concord spot (400 church street, Concord, NC 28025).Book online at moyhebraiding.com or call +1 (704) 641-7227. Follow us on Instagram @MoyheHair for more inspiration and exclusive deals—your best hair year starts now!</p>
+              <p>Ready to transform your hair? Visit us at our Charlotte location (Central Ave St, Charlotte, NC) or Concord spot (400 church street, Concord, NC 28025).Book online at moyhebraiding.com or call +1 (704) 641-7227. Follow us on Instagram @MoyheHair for more inspiration and exclusive deals—your best hair year starts now!</p>
             </div>
           </div>
         </article>
@@ -65,5 +65,6 @@ const BlogPage = () => {
     </section>
   );
 };
+
 
 export default BlogPage;
