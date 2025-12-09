@@ -7,7 +7,8 @@ const ServicesPage = () => {
         <div className="text-center mb-16">
           <h1 className="text-4xl md:text-5xl font-serif text-dark mb-4">Our Expertise</h1>
           <div className="w-24 h-1 bg-primary mx-auto rounded-full"></div>
-          <p className="text-lg text-gray-600 mt-4">Located at Church Street, Concord, NC 28025</p>
+          <p className="text-lg text-gray-600 mt-4">Located at Central AVE, Charlotte , NC 28205</p>
+            <p className="text-lg text-gray-600 mt-4">Located at Church Street, Concord, NC 28025</p>
           <p className="text-xl md:text-2xl text-gray-700 mt-8 max-w-4xl mx-auto leading-relaxed">
             With over 30 years of experience in African hair braiding, Moyhe Hair brings authentic expertise and artistry to every style.
             Our skilled stylists combine traditional techniques with modern trends to create stunning, long-lasting braids that protect and beautify your natural hair.
@@ -59,4 +60,5 @@ const ServicesPage = () => {
 };
 
 export default ServicesPage;
+
 
